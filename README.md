@@ -24,3 +24,5 @@ theme: https://github.com/rdbende/Sun-Valley-ttk-theme
     5.
 
 keep learning from this one: https://www.youtube.com/watch?v=d-Eq6x1yssU about on the algorithms behind a spellchecker
+
+I got the words csv files from: https://www.bragitoff.com/2016/03/english-dictionary-in-csv-format/
